@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Al Faisal
 - 👀 I’m interested in Android Development | Software Engineer
-- 🌱 I’m currently learning Mobile Development
-- 🤝 I’m looking to collaborate on make impact
+- 💬 Ask me about anything, I am happy to help
+- 🤝 I’m looking to collaborate on making an impact
 - 📫 How to reach me alfaisal7313@gamil.com
 
 <!---
